@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErPrateek2019
+- 👋 Hi, I’m @ErPrateek
 - 👀 I’m interested in ...Cloud/Devops,AI/ML,Data science,Python development
 - 🌱 I’m currently learning ... AWS Cloud,Devops Infrastructure,PYTHON
 - 💞️ I’m looking to collaborate on ... 
